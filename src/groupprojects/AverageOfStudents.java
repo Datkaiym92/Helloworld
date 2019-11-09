@@ -20,7 +20,7 @@ public class AverageOfStudents {
 
 
         }double avg =(num/n);
-        System.out.println(" Average is " + avg);
+        System.out.println(" Average ajd sum is  " + avg);
 
 
 
